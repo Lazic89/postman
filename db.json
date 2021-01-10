@@ -50,15 +50,6 @@
       "author": "tewst",
       "isbn": "test",
       "releaseDate": "test",
-      "createdAt": "2020-04-21T13:37:43.783Z",
-      "updatedAt": "2020-04-21T13:37:43.784Z",
-      "id": 6
-    },
-    {
-      "title": "test",
-      "author": "tewst",
-      "isbn": "test",
-      "releaseDate": "test",
       "createdAt": "2020-04-21T13:39:10.238Z",
       "updatedAt": "2020-04-21T13:39:10.238Z",
       "id": 7,
@@ -68,6 +59,75 @@
           "href": "http://localhost:3000/books/7"
         }
       ]
+    },
+    {
+      "title": "You are what you love: ...............the Spiritual power of Habit",
+      "author": "James K.A",
+      "lsbn": " 15873290x",
+      "releasedDate": "2021 -03-05",
+      "createdAt": "2021-01-10T18:05:53.386Z",
+      "updatedAt": "2021-01-10T18:05:53.386Z",
+      "id": 8,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/8"
+        }
+      ]
+    },
+    {
+      "title": "You are what you love: ...............the Spiritual power of Habit",
+      "author": "James K.A",
+      "lsbn": " 15873290x",
+      "releasedDate": "2021 -03-05",
+      "createdAt": "2021-01-10T18:07:52.449Z",
+      "updatedAt": "2021-01-10T18:07:52.449Z",
+      "id": 9,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/9"
+        }
+      ]
+    },
+    {
+      "title": "You are what you love: ...............the Spiritual power of Habit",
+      "author": "James K.A",
+      "lsbn": " 15873290x",
+      "releasedDate": "2021 -03-05",
+      "createdAt": "2021-01-10T18:14:03.151Z",
+      "updatedAt": "2021-01-10T18:14:03.151Z",
+      "id": 10,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/10"
+        }
+      ]
+    },
+    {
+      "title": "You are what you love: ...............the Spiritual power of Habit",
+      "author": "James K.A",
+      "lsbn": " 15873290x",
+      "releasedDate": "2021 -03-05",
+      "createdAt": "2021-01-10T18:14:14.872Z",
+      "updatedAt": "2021-01-10T18:14:14.872Z",
+      "id": 11,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/11"
+        }
+      ]
+    },
+    {
+      "title": "You are what you love: ...............the Spiritual power of Habit",
+      "author": "James K.A",
+      "lsbn": " 15873290x",
+      "releasedDate": "2021 -03-05",
+      "createdAt": "2021-01-10T18:15:34.242Z",
+      "updatedAt": "2021-01-10T18:15:34.242Z",
+      "id": 12
     }
   ],
   "households": [
